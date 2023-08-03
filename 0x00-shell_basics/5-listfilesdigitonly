@@ -1,5 +1,2 @@
-<<EOF
-EOF
-EOF
 #!/bin/bash
 ls -na
